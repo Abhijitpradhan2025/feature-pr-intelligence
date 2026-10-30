@@ -1,0 +1,95 @@
+{
+  "schema_version": "0.1",
+  "repository": {
+    "owner": "abhijit-pradhan1",
+    "name": "abhi_sandbox",
+    "host_url": "https://github.azc.ext.hp.com",
+    "url": "https://github.azc.ext.hp.com/abhijit-pradhan1/abhi_sandbox"
+  },
+  "requested_window": {
+    "from": "2026-01-01T00:00:00Z",
+    "to": "2026-01-31T23:59:59Z"
+  },
+  "filters": {
+    "author": "promoda-sahu"
+  },
+  "fetched_at": "2026-10-22T12:01:45Z",
+  "observation_cutoff": "2026-10-22T12:01:42Z",
+  "status": "partial",
+  "resources": {
+    "pull_requests": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "lifecycle_events": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "commits": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "reviews": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "review_comments": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "issue_comments": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    },
+    "review_threads": {
+      "status": "unavailable",
+      "count": 0,
+      "pagination_complete": false,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": false
+    },
+    "checks": {
+      "status": "complete",
+      "count": 0,
+      "pagination_complete": true,
+      "coverage_start": null,
+      "coverage_end": "2026-10-22T12:01:42Z",
+      "history_complete": true
+    }
+  },
+  "warnings": [
+    "Review-thread resolution state is unavailable: this REST-only collector retrieves review comments but does not query GraphQL reviewThreads."
+  ],
+  "pull_requests": [],
+  "events": [],
+  "commits": [],
+  "reviews": [],
+  "review_comments": [],
+  "issue_comments": [],
+  "checks": []
+}
